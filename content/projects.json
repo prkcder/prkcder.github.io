@@ -1,0 +1,19 @@
+[
+  {
+    "title": "Portfolio refresh",
+    "description": "This site rebuild: cleaner structure, better UX, and room for real projects.",
+    "tag": "in progress",
+    "href": "https://github.com/prkcder"
+  },
+  {
+    "title": "GitHub",
+    "description": "Everything public lives here (and a few experiments).",
+    "href": "https://github.com/prkcder",
+    "tag": "code"
+  },
+  {
+    "title": "Resume",
+    "description": "Polishing and formatting — will publish a PDF link here.",
+    "tag": "soon"
+  }
+]
