@@ -4,7 +4,7 @@ export default function Document() {
   return (
     <Html lang="en">
       <Head>
-        <link rel="icon" href="/favicon.svg" />
+        <link rel="icon" href="/favicon-j-alt.svg" />
         <link rel="manifest" href="/site.webmanifest" />
         <meta name="theme-color" content="#0b0b0b" />
         <meta name="color-scheme" content="dark light" />

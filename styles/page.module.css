@@ -168,6 +168,13 @@
   gap: 10px;
 }
 
+.tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  justify-content: flex-end;
+}
+
 .tag {
   font-size: 12px;
   text-transform: uppercase;
@@ -186,6 +193,17 @@
   border: 1px solid var(--border);
   padding: 8px 10px;
   background: rgba(11, 11, 11, 0.55);
+}
+
+.cardLinks {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  margin-top: 14px;
+}
+
+.cardLinks .cardLink {
+  margin-top: 0;
 }
 
 .cardLink:hover {

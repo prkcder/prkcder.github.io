@@ -1,19 +1,50 @@
 [
   {
-    "title": "Portfolio refresh",
-    "description": "This site rebuild: cleaner structure, better UX, and room for real projects.",
-    "tag": "in progress",
-    "href": "https://github.com/prkcder"
+    "title": "Clutch",
+    "description": "AI concierge to combat decision fatigue. Built at a hackathon using Yelp's AI Chat API to instantly find and book local spots—from dinner to mechanics.",
+    "tags": [
+      "AI",
+      "API Integration",
+      "Yelp API",
+      "productivity"
+    ],
+    "href": "https://clutch-yelp.vercel.app/"
   },
   {
-    "title": "GitHub",
-    "description": "Everything public lives here (and a few experiments).",
-    "href": "https://github.com/prkcder",
-    "tag": "code"
+    "title": "Storyboard Studio",
+    "description": "Bria hackathon project: AI storyboard production platform built for studios to systematically refine, collaborate on, and export storyboards using FIBO's professional controls.",
+    "tags": [
+      "AI",
+      "FIBO",
+      "Bria API",
+      "creative tools",
+      "collaboration",
+      "Next.js"
+    ],
+    "href": "https://storyboardstudios.vercel.app/"
   },
   {
-    "title": "Resume",
-    "description": "Polishing and formatting — will publish a PDF link here.",
-    "tag": "soon"
+    "title": "SpaceBio Knowledge Library",
+    "description": "AI interface that makes NASA bioscience research accessible through Q&A and educational visuals. Won 1st place locally and advanced as a global nominee.",
+    "tags": [
+      "AI",
+      "NASA",
+      "education",
+      "visualization"
+    ],
+    "links": [
+      {
+        "label": "Best Use of NASA Data Award",
+        "href": "/certs/Best%20Use%20of%20NASA%20Data%20Award.png"
+      },
+      {
+        "label": "Global Nominee",
+        "href": "/certs/Global%20Nominee.png"
+      },
+      {
+        "label": "Source code",
+        "href": "https://github.com/jsantibout/knowledge-library"
+      }
+    ]
   }
 ]

@@ -51,11 +51,11 @@ export default function ContactDraftPage() {
                 <span className={styles.kvKey}>Instagram</span>
                 <a
                   className={styles.kvValue}
-                  href="https://www.instagram.com/jhnprk"
+                  href=""
                   target="_blank"
                   rel="noreferrer"
                 >
-                  instagram.com/jhnprk
+                  
                 </a>
               </div>
             </div>
